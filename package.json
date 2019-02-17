@@ -1,0 +1,16 @@
+{
+  "name": "graph-server",
+  "version": "1.0.0",
+  "description": "learn graph",
+  "main": "index.js",
+  "author": "mrtan",
+  "license": "MIT",
+  "devDependencies": {
+    "graphpack": "^1.0.6",
+    "core-js": "3.0.0-beta.11"
+  },
+  "scripts":{
+      "dev": "graphpack",
+      "build": "graphpack build"
+  }
+}
